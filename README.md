@@ -1,5 +1,3 @@
-[![Latest Release](https://img.shields.io/github/release/uaefama/i-diario.svg?label=latest%20release)](https://github.com/uaefama/i-diario/releases)
-
 # i-Diário
 
 Portal do professor integrado com o software livre [i-Educar](https://github.com/uaefama/i-educar).
