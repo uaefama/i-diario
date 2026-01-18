@@ -37,4 +37,3 @@ Consulte o passo a passo no [guia de instalação](INSTALL.md).
 
 ---
 
-Powered by [Portábilis](https://uaefama.com.br/).
