@@ -19,7 +19,7 @@ Existem diversas formas de contribuir com o projeto:
 ### Reportando bugs
 
 Se encontrou um bug no i-Diário você pode reportá-lo usando a ferramenta de
-[issues do GitHub](https://github.com/portabilis/i-diario/issues). Porém antes
+[issues do GitHub](https://github.com/uaefama/i-diario/issues). Porém antes
 de enviar seu bug é importante fazer as seguintes verificações:
 
 1. Atualize seu repositório local no branch `master` mais recente. Talvez seu
@@ -28,7 +28,7 @@ de enviar seu bug é importante fazer as seguintes verificações:
    issues.
 
 Se o bug realmente não foi resolvido ou acolhido então está na hora de
-[criar uma nova issue](https://github.com/portabilis/i-diario/issues/new). No
+[criar uma nova issue](https://github.com/uaefama/i-diario/issues/new). No
 título da issue tente resumir da melhor forma o problema evitando títulos
 genéricos como *"Falha no sistema"* ou *"Problemas na instalação"*. No corpo da
 issue, tente seguir o seguinte formato:
@@ -73,7 +73,7 @@ label **bug** à issue.
 
 Se você encontrou alguma falha de segurança **não use as issues para reportar o
 bug**. Escreva o seu report diretamente para o endereço de e-mail
-`comunidade@portabilis.com.br`. Ele será analisado, validado e corrigido de
+`comunidade@uaefama.com.br`. Ele será analisado, validado e corrigido de
 acordo com as necessidades. Pedimos que **não torne a falha pública** para
 segurança de todos que utilizam a plataforma em seu estado atual.
 
@@ -85,7 +85,7 @@ alguma abordagem na solução de problemas, refatoração de código, melhoria e
 algum recurso ou qualquer outra coisa relacionada, siga estes passos:
 
 1. Verifique se a ideia já não está pressente em nossas
-   [issues do GitHub](https://github.com/portabilis/i-diario/issues);
+   [issues do GitHub](https://github.com/uaefama/i-diario/issues);
 2. Defenda a sua ideia e explique de forma convincente porque ela deve ser
    acolhida. Eis algumas questões a considerar:
    1. Você realmente esta propondo uma ideia só ou um conjunto de ideias?
@@ -95,7 +95,7 @@ algum recurso ou qualquer outra coisa relacionada, siga estes passos:
       nossas prioridades?
 
 Tendo passado pelo crivo de todos estes questionamentos basta
-[criar uma nova issue](https://github.com/portabilis/i-diario/issues/new)
+[criar uma nova issue](https://github.com/uaefama/i-diario/issues/new)
 descrevendo as melhorias e usando o label **melhorias**.
 
 ### Pedindo recursos
@@ -111,7 +111,7 @@ apenas se:
    alunos, etc.
 
 Para criar seu pedido de recurso basta
-[criar uma nova issue](https://github.com/portabilis/i-diario/issues/new) usando
+[criar uma nova issue](https://github.com/uaefama/i-diario/issues/new) usando
 o label **recurso**.
 
 ### Discutindo as issues
@@ -149,7 +149,7 @@ Antes de abrir seu PR (pull request) certique-se que:
   divida em vários PRs;
 - Seu código é funcional (ou algo próximo disso). Providencie testes se
   possível;
-- Seu código adere ao [Style Guide](https://github.com/portabilis/ruby);
+- Seu código adere ao [Style Guide](https://github.com/uaefama/ruby);
 - Seus commits englobam bem as funcionalidades desenvolvidas. Evite espalhar o
   desenvolvimento de um recurso em múltiplos commits;
 - As mensagens de seus commits são claras e descrevem bem o trabalho. Para
@@ -178,7 +178,7 @@ formas de contribuir:
   conhecimento técnico? Não se acanhe e participe também nas issues do GitHub.
 
 Pensou em alguma outra forma de contribuir? Compartilha com a gente! Escreva
-para `comunidade@portabilis.com.br` e conte sua história.
+para `comunidade@uaefama.com.br` e conte sua história.
 
 # Créditos
 
@@ -189,6 +189,6 @@ utilizados em outras comunidades. Destacamos:
 - [Ghost](https://docs.ghost.org/v1/docs/contributing)
 - [Ember.js](https://github.com/emberjs/ember.js/blob/master/CONTRIBUTING.md)
 - [Ruby on Rails](https://github.com/rails/rails/blob/master/CONTRIBUTING.md)
-- [Propostas de William Espindola](https://github.com/portabilis/i-diario/issues/201)
+- [Propostas de William Espindola](https://github.com/uaefama/i-diario/issues/201)
 
 ... dentre outros!
